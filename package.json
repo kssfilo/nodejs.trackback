@@ -1,0 +1,15 @@
+{
+  "name": "trackback",
+  "version": "0.0.2",
+  "description": "Send a trackback to blog posts",
+  "main": "index.js",
+  "dependencies": {
+    "request": "*",
+    "xmldom": "*"
+  },
+  "keywords": [
+    "trackback"
+  ],
+  "author": "kssfilo",
+  "license": "BSD-2-Clause"
+}
